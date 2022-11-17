@@ -1,4 +1,9 @@
 { "aircraft": [
+	  {
+  "name": "CRJ2 TEST",
+  "livery": "https://raw.githubusercontent.com/randomgeofsplayer/GEOFS-LiverySelector-more/main/liveries/TEST.png",
+  "mptx": "https://raw.githubusercontent.com/randomgeofsplayer/GEOFS-LiverySelector-more/main/liveries/TEST.png"
+  },
   {
   "name": "Boeing 737 Max 8 (Jet Airways)",
   "livery": "1",
