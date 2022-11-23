@@ -1,8 +1,8 @@
 { "aircraft": [
 	  {
   "name": "Alaska more to love",
-  "livery": "https://raw.githubusercontent.com/randomgeofsplayer/Geofs-Multiliveries/main/Base%20Maps/ASA_More.png",
-  "mptx": "https://raw.githubusercontent.com/randomgeofsplayer/Geofs-Multiliveries/main/Base%20Maps/ASA_More.png"
+  "livery": "https://raw.githubusercontent.com/randomgeofsplayer/Geofs-Multiliveries/main/Base%20Maps/ASA_Westcoast.png",
+  "mptx": "https://raw.githubusercontent.com/randomgeofsplayer/Geofs-Multiliveries/main/Base%20Maps/ASA_Westcoast.png"
   },
   {
   "name": "Boeing 737 Max 8 (Jet Airways)",
